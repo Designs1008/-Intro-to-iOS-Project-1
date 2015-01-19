@@ -11,6 +11,7 @@ Required: User can enter a bill total amount and the app with return the tip.
 Required: User can click on a tip percentage via the segmented controller. Three tip options, 18%, 20%, 22%
 
 Required: User can view the total bill with tip included.
+
 Optional: Entered image assets in the library. Used Image assets as app icon, but an error occured
 Notes:
 
