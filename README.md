@@ -2,7 +2,7 @@
 Tip Calculator application
 This is a iOS demo application for displaying the tips by entering your total bill amount. See the Tip Calculator in Swift Tutorial on vimeo, a step-by-step tutorial.
 
-Time spent: 1.5 hours spent in total
+Time spent: 2.5 hours spent in total
 
 Completed user stories:
 
